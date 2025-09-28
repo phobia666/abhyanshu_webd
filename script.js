@@ -9,5 +9,4 @@ const accNum = 15486491532;
 console.table([naam, id, accNum]);
 
 
-alert("You have been hacked!");
 
